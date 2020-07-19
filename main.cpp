@@ -3,7 +3,6 @@
 #include <string.h>
 
 //to remove shortcut virus   
-//commmit
 
 using namespace std;
 
